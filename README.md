@@ -35,23 +35,6 @@ Este repositório contém a documentação e anotações do desafio proposto pel
 7. Selecione o idioma desejado, em seguida você pode **importar um áudio** do computador ou gravar com o microfone.
 8. Pronto, conversão realizada.
 
-```
-#### Vantagens de se utilizar essa função:
-- Agilidade: transforma voz em texto rapidamente.
-- Precisão: entende sotaques e termos técnicos.
-- Acessibilidade: facilita inclusão com legendas e comandos de voz.
-- Integração: conecta facilmente a apps, chatbots e sistemas.
-- Insights: permite análise de dados a partir do texto gerado.
-#### Dentre outras funções, o Speech Studio também permite:
-- Reconhecer fala.
-- Sintetizar voz.
-- Traduzir em tempo real.
-- Automação de atendimento.
-- Transcrição de reuniões e aulas.
-- Personalizar modelos e vozes.
-- Analisar e otimizar resultados.
-```
-
 ## Language Studio
 1. Acessar o [Language Studio](https://language.cognitive.azure.com)
 2. Faça login com sua conta do Azure.
@@ -59,20 +42,12 @@ Este repositório contém a documentação e anotações do desafio proposto pel
 4. Retornando a tela inicial, dentre várias funções do Language Studio, utilizei a Análise de sentimento, acessando **Classify Text →  Analyze sentiment and mine opinions**:
 5. Selecione o idioma desejado ou deixe que o sistema identifique automaticamente, cole o texto no qual queira analisar, clique em **Run**.
 6. Pronto, desse forma geradas as analises por IA.
-```
-#### Vantagens de se utilizar essa função:
-- Identifica sentimentos (positivo, negativo, neutro, misto).
-- Extrai opiniões detalhadas sobre aspectos específicos (ex.: produto, serviço).
-- Aprimora experiência do cliente com feedback mais claro.
-- Gera insights acionáveis para decisões estratégicas.
-- Funciona em múltiplos idiomas.
 
-#### Dentre outras funções, o Language Studio também permite:
-- *Key Phrase Extraction*: identifica os principais tópicos de um texto.
-- *Named Entity Recognition (NER)*: reconhece nomes, locais, datas, organizações etc.
-- *Question Answering*: encontra respostas em documentos ou bases de conhecimento.
-- *Text Summarization*: gera resumos automáticos de textos longos.
-```
+## 📷 Evidências
+Anexos das etapas realizadas estão disponíveis na pasta [/images](/images)
+
+## ✨ Insights e Aprendizados
+Um pequeno resumo sobre minha experiência nesse desafio, veja meus [Insights.md](/insights.md)
 
 ## 🔗 Recursos Úteis
 - [Documentação Speech Studio](https://learn.microsoft.com/azure/cognitive-services/speech-service/)
