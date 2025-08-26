@@ -31,12 +31,12 @@ Este repositório contém a documentação e anotações do desafio proposto pel
 - **Tipo de preço:** Padrão S0.
 - **Grupo de recursos:** Crie um novo grupo e atribua um nome qualquer.
 - Clique em **Criar um recurso**
-![Criar recurso](./images/novo-recurso.png)
+![Criar recurso](images/novo-recurso.png)
 ##### **5.** Após criar um novo recurso, selecione e clique em **Usar o recurso**.
 ##### **6.** Na tela inicial do Speech Studio, acesse "**Conversão de fala em texto em tempo real**"
-![Conversão de fala em texto](./images/conv-fala-em-texto.png)
+![Conversão de fala em texto](images/conv-fala-em-texto.png)
 ##### **7.** Selecione o idioma desejado, em seguida você pode **importar um áudio** do computador ou gravar com o microfone.
-![Conversão de áudio](./images/conversao-audio.png)
+![Conversão de áudio](images/conversao-audio.png)
 ##### **8.** Pronto, conversão realizada.
 #### Vantagens de se utilizar essa função:
 - Agilidade: transforma voz em texto rapidamente.
@@ -60,7 +60,7 @@ Este repositório contém a documentação e anotações do desafio proposto pel
 ##### **4.** Retornando a tela inicial, dentre várias funções do Language Studio, utilizei a Análise de sentimento, acessando **Classify Text →  Analyze sentiment and mine opinions**:
 ##### **5.** Selecione o idioma desejado ou deixe que o sistema identifique automaticamente, cole o texto no qual queira analisar, clique em **Run**.
 ##### **5.** Pronto, desse forma foram gerados analyses valiosas por IA, como por exemplo a *Análise de sentimento*.
-![Análise de sentimento](./images/analyzed-sentiment.png)
+![Análise de sentimento](images/analyzed-sentiment.png)
 #### Vantagens de se utilizar essa função:
 - Identifica sentimentos (positivo, negativo, neutro, misto).
 - Extrai opiniões detalhadas sobre aspectos específicos (ex.: produto, serviço).
